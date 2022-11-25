@@ -1,0 +1,38 @@
+body  {
+    background-color: #EDDBC0;
+}
+
+h1.HelloW {
+    color: #B73E3E;
+    text-align: center;
+    font-size: 200px;
+}
+
+
+
+h1.but{
+    color: rgb(255, 255, 255);
+}
+
+#test {
+    color: #DD5353;
+    text-align: left;
+    font-size: 50px;
+}
+
+
+
+
+
+button {
+    background-color:#B73E3E;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    cursor: pointer;
+  }
+
